@@ -10,7 +10,7 @@ Prerequisites
 	* Basic knowledge of using the command line
 Usage
 1. Clone the repository:
-git clone https://github.com/your_username/simple-port-scanner.git
+git clone https://github.com/ashoka__11/simple-port-scanner.git
 
 2. Navigate to the project directory:
 cd simple-port-scanner
